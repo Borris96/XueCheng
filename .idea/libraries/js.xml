@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="js">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xcEduUI01/xc-ui-pc-static-portal/plugins/bootstrap/node_modules/JSV/jsdoc-toolkit/java/classes/js.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

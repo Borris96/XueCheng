@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsdoc-toolkit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xcEduUI01/xc-ui-pc-static-portal/plugins/bootstrap/node_modules/JSV/jsdoc-toolkit/jsdebug.jar!/" />
+      <root url="jar://$PROJECT_DIR$/xcEduUI01/xc-ui-pc-static-portal/plugins/bootstrap/node_modules/JSV/jsdoc-toolkit/jsrun.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

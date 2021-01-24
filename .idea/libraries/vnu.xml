@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vnu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xcEduUI01/xc-ui-pc-static-portal/plugins/bootstrap/node_modules/grunt-html/vnu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
